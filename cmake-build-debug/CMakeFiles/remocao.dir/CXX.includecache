@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/faculdade/estrutura-de-dados-2/remocao/genBST.h
+queue
+-
+stack
+-
+iostream
+-
+
+D:/faculdade/estrutura-de-dados-2/remocao/main.cpp
+genBST.h
+D:/faculdade/estrutura-de-dados-2/remocao/genBST.h
+iostream
+-
+stdlib.h
+-
+
